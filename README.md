@@ -1,4 +1,4 @@
-## 🙋 OLá, me chamo Vitoria Amelia!
+## 🙋 Olá, me chamo Vitoria Amelia!
 
 <div>
 <a href="https://github.com/VitoriaAmelia">
@@ -9,5 +9,7 @@
 - 💻 Estou estudando Análise e Desenvolvimento de Sistemas na FATEC.
 - 👩🏻‍🎓 Sou Técnica de Informática para Internet pela ETEC Parque Belém.
 - 🗺️ São Paulo, Brasil.
-- 🕙 18 anos de idade
+- 🕙 18 anos
+- 🌎 Inglês Intermediário
 - 📚 Sou curiosa, dedicada e esforçada!
+
