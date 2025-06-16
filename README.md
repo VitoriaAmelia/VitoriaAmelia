@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/VitoriaAmelia">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAmelia&layout=compact&langs_count=7&theme=jolly"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaAmelia&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAmelia&layout=compact&langs_count=7&theme=jolly"/> 
 </div>
   
 ## ✨ Sobre mim
